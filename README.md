@@ -1,2 +1,4 @@
 # dpm-list
-A list of registered packages for DASH.
+This is the official DASH package registry.
+
+# Registering your Package
